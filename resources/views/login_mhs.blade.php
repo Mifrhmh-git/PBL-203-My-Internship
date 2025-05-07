@@ -74,11 +74,11 @@
 
               <div class="text-left text-lg-start mt-3 pt-2">
                 <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary form-control btn-lg" style="padding-left: 12rem; padding-right: 12rem">Masuk</button>
-                <p class="small fw-bold mt-4 pt-3 mb-0">Tidak punya akun? <a href="../registrasi/regis-mahasiswa.html" class="link-danger">Registrasi</a></p>
+                <p class="small fw-bold mt-4 pt-3 mb-0">Tidak punya akun? <a href="register_mhs" class="link-danger">Registrasi</a></p>
                 <p class="small fw-bold mt-2 pt-1 mb-0">Masuk sebagai CDC? <a href="login_cdc" class="link-danger">CDC</a></p>
                 <p class="small fw-bold mt-2 pt-1 mb-0">Masuk sebagai Dosen? <a href="login_dosen" class="link-danger">Dosen</a></p>
                 <p class="small fw-bold mt-2 pt-1 mb-0">Masuk sebagai Perusahaan? <a href="login_perusahaan" class="link-danger">Perusahaan</a></p>
-                <p class="small fw-bold mt-2 pt-1 mb-0"> <a href="/" class="link-danger">Kembali?</a></p>
+                <p class="small fw-bold mt-2 pt-1 mb-0"> <a href="/" class="link-danger">Kembali ?</a></p>
               </div>
             </form>
           </div>

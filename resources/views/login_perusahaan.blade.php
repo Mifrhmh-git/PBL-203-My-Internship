@@ -83,7 +83,7 @@
 
               <div class="text-left text-lg-start mt-3 pt-2">
                 <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary form-control btn-lg" style="padding-left: 12rem; padding-right: 12rem">Masuk</button>
-                <p class="small fw-bold mt-4 pt-3 mb-0">Tidak punya akun? <a href="../registrasi/regis-perusahaan.html" class="link-danger">Registrasi</a></p>
+                <p class="small fw-bold mt-4 pt-3 mb-0">Tidak punya akun? <a href="register_perusahaan" class="link-danger">Registrasi</a></p>
                 <p class="small fw-bold mt-2 pt-1 mb-0">Masuk sebagai CDC? <a href="login_cdc" class="link-danger">CDC</a></p>
                 <p class="small fw-bold mt-2 pt-1 mb-0">Masuk sebagai Dosen? <a href="login_dosen" class="link-danger">Dosen</a></p>
                 <p class="small fw-bold mt-2 pt-1 mb-0">Masuk sebagai mahasiswa? <a href="login_mhs" class="link-danger">Mahasiswa</a></p>
