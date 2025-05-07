@@ -9,6 +9,6 @@ class Login_CDC_Controller extends Controller
 {
     public function index()
     {
-        return view('login_cdc', ['title' => 'Login CDC']);
+        return view('login_cdc', ['title' => 'Login CDC | Myinternship']);
     }
 }

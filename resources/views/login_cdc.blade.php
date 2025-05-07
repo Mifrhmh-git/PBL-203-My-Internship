@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Login CDC | Myinternship</title>
+    <title>{{ $title }}</title>
     <meta content="width=device-width, initial-scale=1.0, shrink-to-fit=no" name="viewport" />
     <link rel="icon" href="../../assets/img/logomyinternship.png" type="image/x-icon" />
 
@@ -85,7 +85,7 @@
                 <p class="small fw-bold mt-4 pt-3 mb-0">Masuk sebagai Dosen? <a href="login-dosen.html" class="link-danger">Dosen</a></p>
                 <p class="small fw-bold mt-2 pt-1 mb-0">Masuk sebagai Mahasiswa? <a href="login-mahasiswa.html" class="link-danger">Mahasiswa</a></p>
                 <p class="small fw-bold mt-2 pt-1 mb-0">Masuk sebagai Perusahaan? <a href="login-perusahaan.html" class="link-danger">Perusahaan</a></p>
-                <p class="small fw-bold mt-2 pt-1 mb-0"> <a href="#" class="link-danger">Kembali?</a></p> <!-- untuk landing page -->
+                <p class="small fw-bold mt-2 pt-1 mb-0"> <a href="/" class="link-danger">Kembali?</a></p> <!-- untuk landing page -->
               </div>
             </form>
           </div>
