@@ -59,9 +59,9 @@
                 <li class="dropdown"><a class="getstarted scrollto" href="#"><span>Masuk</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="login_cdc" class="text-dark fw-medium fs-13">CDC Login</a></li>
-                        <li><a href="#" class="text-dark fw-medium fs-13">Masuk Industri</a></li>
-                        <li><a href="#" class="text-dark fw-medium fs-13">Masuk Mahasiswa</a></li>
-                        <li><a href="#" class="text-dark fw-medium fs-13">Masuk Dosen</a></li>
+                        <li><a href="login_perusahaan" class="text-dark fw-medium fs-13">Masuk Industri</a></li>
+                        <li><a href="login_mhs" class="text-dark fw-medium fs-13">Masuk Mahasiswa</a></li>
+                        <li><a href="login_dosen" class="text-dark fw-medium fs-13">Masuk Dosen</a></li>
                     </ul>
                 </li>
                     </ul>
