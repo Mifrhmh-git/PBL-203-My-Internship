@@ -54,7 +54,7 @@
                 <li><a href="#beranda">Beranda</a></li>
                 <li><a href="#tentang">Tentang</a></li>
                 <li><a href="#fitur">Fitur</a></li>
-                <li><a href="#team">Team</a></li>
+                <li><a href="#team">Tim</a></li>
                 <li class="dropdown"><a class="getstarted scrollto" href="#"><span>Masuk</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="#" class="text-dark fw-medium fs-13">CDC Login</a></li>
@@ -110,7 +110,7 @@
     </section>
 
 
-    <section id="clients" class="clients clients">
+    <section id="#" class="#">
       <div class="container">
           <div class="row">
               <!-- Tut Wuri -->
@@ -148,7 +148,7 @@
     </section>
 
 
-    <section id="tentang" class="details section">
+    <section id="tentang" class="tentang">
         <div class="faq-container">
             <div class="faq-header">
                 <div class="line"></div>
@@ -173,7 +173,7 @@
     </section>
 
 
-    <section id="counts" class="counts">
+    <section id="#" class="#">
         <div class="container">
             <div class="row">
 
@@ -226,7 +226,7 @@
     </section>
 
 
-    <section id="fitur" class="services">
+    <section id="fitur" class="fitur">
         <div class="container">
 
             <div class="section-title aos-init aos-animate" data-aos="fade-up">
@@ -238,7 +238,7 @@
     </section>
 
 
-    <section id="fitur" class="fitur-unggulan">
+    <section id="#" class="#">
         <div class="container">
 
             <div class="judul-fitur" data-aos="fade-up">
@@ -287,93 +287,87 @@
 
     </div>
 
+    </div>
+    </section>
 
+
+    <section id="team" class="team">
+        <div class="faq-container">
+            <div class="faq-header">
+                <div class="line"></div>
+                <h1>Tim</h1>
+                <div class="line"></div>
+            </div>
+
+            <div class="container py-5">
+                <div class="row g-4">
+
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <img src="assets/img/team/Shandy Sapta Wirayudha.jpg" class="card-img-top" alt="Profile">
+                    <div class="card-body">
+                    <h5 class="card-title">Shandy Sapta Wirayudha </h5>
+                    <p class="card-text"><i>Kontribusi sebagai penguji​</i></p>
                     </div>
-                </section>
-                <section id="details" class="details section">
-                  <!-- ======= About Us Section ======= -->
-                  <div class="faq-container">
-                    <div class="faq-header">
-                      <div class="line"></div>
-                      <h1>Tim</h1>
-                      <div class="line"></div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <img src="assets/img/team/Raihan Putra Atmaja .jpg" class="card-img-top" alt="Profile">
+                    <div class="card-body">
+                    <h5 class="card-title">Raihan Putra Atmaja  </h5>
+                    <p class="card-text"><i>Kontribusi dalam pembuatan database, terutama ERD, diagram kelas, dan tabel​</i></p>
                     </div>
-                    <div class="container py-5">
-  <div class="row g-4">
+                </div>
+            </div>
 
-    <!-- Ulangi card ini sebanyak 6 kali -->
-    <div class="col-md-4">
-      <div class="card h-100">
-        <img src="assets/img/team/Shandy Sapta Wirayudha.jpg" class="card-img-top" alt="Profile">
-        <div class="card-body">
-          <h5 class="card-title">Shandy Sapta Wirayudha </h5>
-          <p class="card-text"><i>Kontribusi sebagai penguji​</i></p>
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <img src="assets/img/team/Andri Yani Meuraxa .jpg" class="card-img-top" alt="Profile">
+                    <div class="card-body">
+                    <h5 class="card-title">Andri Yani Meuraxa </h5>
+                    <p class="card-text"><i>Kontribusi sebagai UI merancang figma dan membantu pembuatan dokumen​</i></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <img src="assets/img/team/Miftahur Rahmah.jpg" class="card-img-top" alt="Profile">
+                    <div class="card-body">
+                    <h5 class="card-title">Miftahur Rahmah</h5>
+                    <p class="card-text"><i>Kontribusi dalam implementasi laravel​</i></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <img src="assets/img/team/Alendea Resta Amaira .jpg" class="card-img-top" alt="Profile">
+                    <div class="card-body">
+                    <h5 class="card-title">Alendea Resta Amaira </h5>
+                    <p class="card-text"><i>Kontribusi dalam pembuatan dokumen, desain, dan database​</i></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card h-100">
+                    <img src="assets/img/team/Rahel Tarigan .jpg" class="card-img-top" alt="Profile">
+                    <div class="card-body">
+                    <h5 class="card-title">Rahel Tarigan </h5>
+                    <p class="card-text"><i>Kontribusi sebagai desain UX dan membantu dalam pembuatan dokumen​​</i></p>
+                    </div>
+                </div>
+            </div>
+
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-
-    <!-- Duplikat 5 kartu lagi -->
-    <div class="col-md-4">
-      <div class="card h-100">
-        <img src="assets/img/team/Raihan Putra Atmaja .jpg" class="card-img-top" alt="Profile">
-        <div class="card-body">
-          <h5 class="card-title">Raihan Putra Atmaja  </h5>
-          <p class="card-text"><i>Kontribusi dalam pembuatan database, terutama ERD, diagram kelas, dan tabel​</i></p>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card ke-3 -->
-    <div class="col-md-4">
-      <div class="card h-100">
-        <img src="assets/img/team/Andri Yani Meuraxa .jpg" class="card-img-top" alt="Profile">
-        <div class="card-body">
-          <h5 class="card-title">Andri Yani Meuraxa </h5>
-          <p class="card-text"><i>Kontribusi sebagai UI merancang figma dan membantu pembuatan dokumen​</i></p>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card ke-4 -->
-    <div class="col-md-4">
-      <div class="card h-100">
-        <img src="assets/img/team/Miftahur Rahmah.jpg" class="card-img-top" alt="Profile">
-        <div class="card-body">
-          <h5 class="card-title">Miftahur Rahmah</h5>
-          <p class="card-text"><i>Kontribusi dalam implementasi laravel​</i></p>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card ke-5 -->
-    <div class="col-md-4">
-      <div class="card h-100">
-        <img src="assets/img/team/Alendea Resta Amaira .jpg" class="card-img-top" alt="Profile">
-        <div class="card-body">
-          <h5 class="card-title">Alendea Resta Amaira </h5>
-          <p class="card-text"><i>Kontribusi dalam pembuatan dokumen, desain, dan database​</i></p>
-        </div>
-      </div>
-    </div>
-    <!-- Card ke-6 -->
-    <div class="col-md-4">
-      <div class="card h-100">
-        <img src="assets/img/team/Rahel Tarigan .jpg" class="card-img-top" alt="Profile">
-        <div class="card-body">
-          <h5 class="card-title">Rahel Tarigan </h5>
-          <p class="card-text"><i>Kontribusi sebagai desain UX dan membantu dalam pembuatan dokumen​​</i></p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-                        </div>
-                    </section>
+    </section>
 
 
-<div class="faq-container">
-  <div class="faq-header">
- </div>
   <link rel="stylesheet" href="contact.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
   <!-- Scroll Top -->
