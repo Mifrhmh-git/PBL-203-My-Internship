@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>{{ $title }}</title>
+    <title>Registrasi Dosen | Myinternship</title>
     <meta content="width=device-width, initial-scale=1.0, shrink-to-fit=no" name="viewport" />
     <link rel="icon" href="../../assets/img/logomyinternship.png" type="image/x-icon" />
 
@@ -53,7 +53,7 @@
           <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
             <form>
               <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
-                <p class="lead fw-normal mb-1 mt-5 me-3">Masuk sebagai Dosen</p>
+                <p class="lead fw-normal mb-1 mt-5 me-3">Registrasi sebagai Dosen</p>
               </div>
 
               <div class="divider d-flex align-items-center my-4">
@@ -69,24 +69,39 @@
                 <label class="form-label" for="form3Example3" >Peran</label>
               </div>
 
+              <!-- Nama input -->
+              <div data-mdb-input-init class="form-outline mb-3">
+                <input type="name" id="form3Example4" class="form-control form-control-lg" placeholder="Masukkan Nama Anda" required/>
+                <label class="form-label" for="form3Example4">Nama</label>
+              </div>
+
               <!-- Email input -->
               <div data-mdb-input-init class="form-outline mb-4">
                 <input type="email" id="form3Example3" class="form-control form-control-lg" placeholder="Masukkan e-mail" required/>
                 <label class="form-label" for="form3Example3" >E-mail</label>
               </div>
 
+              <!-- Nama Perusahaan input -->
+              <div data-mdb-input-init class="form-outline mb-3">
+                <input type="text" id="form3Example4" class="form-control form-control-lg" placeholder="Masukkan Nama Perusahaan" required/>
+                <label class="form-label" for="form3Example4">Nama Kampus</label>
+              </div>
+
+               <!-- No WA input -->
+               <div data-mdb-input-init class="form-outline mb-3">
+                <input type="text" id="form3Example4" class="form-control form-control-lg" placeholder="Masukkan Nomor Anda" required/>
+                <label class="form-label" for="form3Example4">Nomor Whatsapp</label>
+              </div>
+
               <!-- Password input -->
               <div data-mdb-input-init class="form-outline mb-3">
-                <input type="password" id="form3Example4" class="form-control form-control-lg" placeholder="Masukkan Password" required/>
-                <label class="form-label" for="form3Example4">Password</label>
+                <input type="password" id="form3Example4" class="form-control form-control-lg" placeholder="Masukkan Kata Sandi" required/>
+                <label class="form-label" for="form3Example4">Kata Sandi</label>
               </div>
 
               <div class="text-left text-lg-start mt-3 pt-2">
-                <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary form-control btn-lg" style="padding-left: 12rem; padding-right: 12rem">Masuk</button>
-                <p class="small fw-bold mt-4 pt-3 mb-0">Tidak punya akun? <a href="register_dosen" class="link-danger">Registrasi</a></p>
-                <p class="small fw-bold mt-2 pt-1 mb-0">Masuk sebagai CDC? <a href="login_cdc" class="link-danger">CDC</a></p>
-                <p class="small fw-bold mt-2 pt-1 mb-0">Masuk sebagai Mahasiswa? <a href="login_mhs" class="link-danger">Mahasiswa</a></p>
-                <p class="small fw-bold mt-2 pt-1 mb-0">Masuk sebagai Perusahaan? <a href="login_perusahaan" class="link-danger">Perusahaan</a></p>
+                <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary form-control btn-lg" style="padding-left: 12rem; padding-right: 12rem">Kirim</button>
+                <p class="small fw-bold mt-2 pt-1 mb-0">Login sebagai Dosen? <a href="login_dosen" class="link-danger">Login</a></p>
                 <p class="small fw-bold mt-2 pt-1 mb-0"> <a href="/" class="link-danger">Kembali?</a></p>
               </div>
             </form>
