@@ -118,7 +118,7 @@
               <div class="text-left text-lg-start mt-3 pt-2">
                 <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary form-control btn-lg" style="padding-left: 12rem; padding-right: 12rem">Kirim</button>
                 <p class="small fw-bold mt-2 pt-1 mb-0">Login sebagai Mahasiswa? <a href="login_mhs" class="link-danger">Login</a></p>
-                <p class="small fw-bold mt-2 pt-1 mb-0"> <a href="/" class="link-danger">Kembali ?</a></p>  
+                <p class="small fw-bold mt-2 pt-1 mb-0"> <a href="/" class="link-danger">Kembali ?</a></p>
               </div>
             </form>
             <script>
